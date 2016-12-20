@@ -1,0 +1,36 @@
+# T2
+
+
+puts "starting"
+
+def up
+  puts "UP"
+end
+end
+
+def down
+  puts "dOWN"
+end
+
+def all
+  PUTS "all"
+end
+
+def huh
+  PUTS "hUH??"
+END
+
+answer ="a"
+
+case answer
+  when "u"
+    up
+  when "d"
+    down
+  when "a"
+    all
+  else
+    huh
+
+end
+    puts "at the end"
